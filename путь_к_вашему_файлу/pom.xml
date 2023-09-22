@@ -1,0 +1,21 @@
+<dependencies>
+    <!-- Зависимость для Cucumber -->
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-java</artifactId>
+        <version>7.0.0</version> <!-- Обновите версию до 7.0.0 -->
+        <scope>test</scope>
+    </dependency>
+
+    <!-- Зависимость для Cucumber JUnit -->
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-junit</artifactId>
+        <version>7.0.0</version> <!-- Обновите версию до 7.0.0 -->
+        <scope>test</scope>
+    </dependency>
+</dependencies>
+
+
+
+

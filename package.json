@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "webdriverio": "^8.16.10"
+  }
+}
